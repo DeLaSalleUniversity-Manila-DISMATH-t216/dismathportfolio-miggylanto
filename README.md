@@ -4,10 +4,7 @@
 - This week, I was introduced to a new course called **DISMATH** or *Discrete Mathematics*.
 - I introduced myself to class as a person who loves to chill. In order to get through **DISMATH**, I know I'd have to change that. I'd work as hard as ever.
 - Some of the many lessons I remember:
-  * **Argument** - Statements that end with a conclusion.
-  * **Valid** - Final statement must follow the truth of preceding statement.
-  * **Fallacy** - Invalid or Incorrect reasoning.
-  * **Tautology** - Statement is always true.
+  
 - I was introduced to logical connectives, propositional statements, mathematical proofs, logical connectives and the like.
 - I also learned about truth tables. I need to remember the process carefully because truth tables would really be essential for proving.
 - I was also introdcued to propositional logic.
@@ -30,7 +27,11 @@
   * **Simplification**
   * **Conjunction**
 - We were taught how to use these rules of inference in the midst of arguments and premise.
-
+- Some of the many lessons I'll have to take note of:
+  * **Valid** - Final statement must follow the truth of preceding statement.
+  * **Fallacy** - Invalid or Incorrect reasoning.
+  * **Tautology** - Statement is always true.
+  * **Argument** - Statement that ends with a conclusion.
 # Week 4
 - We learnt about the different "*Methods of Proof*". Such methods include:
   - Direct Proof
