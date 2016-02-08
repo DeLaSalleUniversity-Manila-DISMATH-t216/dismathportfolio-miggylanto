@@ -10,12 +10,14 @@
 - I was introduced to logical connectives, propositional statements, mathematical proofs, logical connectives and the like.
 - I also learned about truth tables. I need to remember the process carefully because truth tables would really be essential for proving.
 - I was also introdcued to propositional logic.
+
 # Week 2
 - I was introduced to logical equivalances. My thoughts about it was that it was like algebra, only that it uses words.
 - I also learned about quantifiers. There are two types of quantifiers:
 * **Existential Quantifier** - "There Exists" meaning that there is at least one true value within the statement.
 * **Universal Quantifier** - "For all" which states that statement is true for all values.
 - I've also been introduced to the topic of the terminologies of rules of inference.
+
 # Week 3
 - We were tasked to prove that *Superman* does not exist. Although I wasn't able to get it right away, I've found logical explanation through class hours.
 - We learnt about the different rules of inferences. Such rules of inferences include:
@@ -27,6 +29,7 @@
 * **Simplification**
 * **Conjunction**
 - We were taught how to use these rules of inference in the midst of arguments and premise.
+
 # Week 4
 - We learnt about the different "Methods of Proof". Such methods include:
   - Direct Proof
