@@ -31,7 +31,7 @@
 - We were taught how to use these rules of inference in the midst of arguments and premise.
 
 # Week 4
-- We learnt about the different "Methods of Proof". Such methods include:
+- We learnt about the different "*Methods of Proof*". Such methods include:
   - Direct Proof
     1. Assume P is true.
     2. Show that Q is also true, using (1).
