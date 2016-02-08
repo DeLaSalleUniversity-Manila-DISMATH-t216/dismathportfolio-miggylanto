@@ -30,6 +30,7 @@
   * **Fallacy** - Invalid or Incorrect reasoning.
   * **Tautology** - Statement is always true.
   * **Argument** - Statement that ends with a conclusion.
+
 # Week 4
 - We learnt about the different "*Methods of Proof*". Such methods include:
   - Direct Proof
