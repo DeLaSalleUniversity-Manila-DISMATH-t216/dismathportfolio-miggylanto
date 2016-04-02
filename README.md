@@ -93,11 +93,11 @@
 
 # Week 9
 - We were introduced to *searching algorithms* as well as *order algorithms*. 
-  *Linear Search* - searches for a particular value in a certain input list that checks each value in the list until the element is found.
-  *Binary Search* - compares middle values of a certain list. This method is repeated until desired element is found.
-  *Bubble Sort* - compares starting elements and interchanges them if not in order. This method is repeated throughout the list.
-  *Insertion Sort* - just like the bubble sort, it compares the elements and interchanges them throughout the list, except that it focuses on the 2nd element first and compares it with the first element. 3rd with the 2nd, 4th with the 3rd, etc.
-  *Greedy Change* - a method to find the least amount of "*coins*" for change. Mainly uses denomination.
+  * *Linear Search* - searches for a particular value in a certain input list that checks each value in the list until the element is found.
+  * *Binary Search* - compares middle values of a certain list. This method is repeated until desired element is found.
+  * *Bubble Sort* - compares starting elements and interchanges them if not in order. This method is repeated throughout the list.
+  * *Insertion Sort* - just like the bubble sort, it compares the elements and interchanges them throughout the list, except that it focuses on the 2nd element first and compares it with the first element. 3rd with the 2nd, 4th with the 3rd, etc.
+  * *Greedy Change* - a method to find the least amount of "*coins*" for change. Mainly uses denomination.
 
 # Week 10
 - We were introduced to **Functions**, **Growth of Functions**, **Time Complexity**.
