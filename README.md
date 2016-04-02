@@ -62,3 +62,47 @@
 
 - This topic, I was confused because it disproves a fact. Although given more time to analyze, I was able to pick it up.
 - I was also introduced to Recursive definition.
+
+- This was also the week we were introduced to **Recursive Algorithms** and **Sets**.
+- **Recursive Algorithms** - method to shorten that have repeating attributes in order to solve them faster and to understand them more efficiently.
+- **Sets** - an unordered collection of elements.
+  * *Empty Set* - a set containing no elements. Denoted as {} or null.
+  * *Subset* - a set where all of its elements is contained by another set.
+  * *Cardinality* - number of elements in a set.
+  * *Set Builder Notation* - an efficient way of organizing sets in a mathematical way.
+
+# Week 6
+
+- This week, we were introduced to **Functions**. 
+  * **Functions** - an assignment of an element B to an element A.
+  * 3 TYPES OF FUNCTIONS:
+  * 1.) *One-to-one*
+  * 2.) *Onto*
+  * 3.) *Bijection*
+  
+- We were also introuced to **Nested Quantifiers**.
+- Preparation for QUIZ 1.
+
+# Week 7
+- No classes.
+
+# Week 8
+- This week, we were introduced to **Algorithms**.
+  * **Pseudocode** - A way of representing an *Algorithm* using syntax language, particularly the C++ language. It is a program that is intended for human reading.
+  * We were introduced to different types of simple Algorithms, as well as puzzling challenges and interesting lectures.
+
+# Week 9
+- We were introduced to *searching algorithms* as well as *order algorithms*. 
+  *Linear Search* - searches for a particular value in a certain input list that checks each value in the list until the element is found.
+  *Binary Search* - compares middle values of a certain list. This method is repeated until desired element is found.
+  *Bubble Sort* - compares starting elements and interchanges them if not in order. This method is repeated throughout the list.
+  *Insertion Sort* - just like the bubble sort, it compares the elements and interchanges them throughout the list, except that it focuses on the 2nd element first and compares it with the first element. 3rd with the 2nd, 4th with the 3rd, etc.
+  *Greedy Change* - a method to find the least amount of "*coins*" for change. Mainly uses denomination.
+
+# Week 10
+- We were introduced to **Functions**, **Growth of Functions**, **Time Complexity**.
+  * **Functions** - a relationship or expression involving one or more variables.
+  * **Time Complexity** - quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input. Commonly expressed is with *Big-O Notation*.
+  * *Big-O Notation* - upperbound region of the function. Lower bound is represented by *Big-Omega*, while both regions are represented by the *Big-Theta*.
+
+
