@@ -148,8 +148,8 @@
 - We were also introduced to a *Finite state machine*, as well as the concept of the vending machine program.\
 - This concluded the entire coverage of lectures for this semester in **DISCRETE MATHEMATICS**. I'm going to miss it!
   
-  
-
+  * **READING ASSIGNMENTS**
+  * Relations, Tree Traversal, Spanning Trees, Partial Ordering.
 
 
 
