@@ -5,7 +5,7 @@
 - I introduced myself to class as a person who loves to chill. In order to get through **DISMATH**, I know I'd have to change that. I'd work as hard as ever.
 - I was introduced to logical connectives, propositional statements, mathematical proofs, logical connectives and the like.
 - I also learned about truth tables. I need to remember the process carefully because truth tables would really be essential for proving.
-- I was also introdcued to propositional logic.
+- I was also introduced to propositional logic.
 
 # Week 2
 - I was introduced to logical equivalances. My thoughts about it was that it was like algebra, only that it uses words.
