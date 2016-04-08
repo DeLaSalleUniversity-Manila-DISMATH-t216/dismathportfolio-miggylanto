@@ -104,5 +104,15 @@
   * **Functions** - a relationship or expression involving one or more variables.
   * **Time Complexity** - quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input. Commonly expressed is with *Big-O Notation*.
   * **Big-O Notation** is the upperbound region of the function. Lower bound is represented by **Big-Omega**, while both regions are represented by the **Big-Theta**.
+- We were also introduced about the **Divisio** and the **Modulo** Operators
+  * **Divisio** - an operator that gives the quotient of two given numbers.
+  * **Modulo** - an operator that gives the remainder obtained when these two given numbers are divided.
+- We also learned about the **Caesar's Cipher**.
+  * **Caesar's Cipher** - it is a form of cryptography where the letter are shifted 3 times to the right. This method of cryptography was used back in the day during warfare.
+
+# Week 11
+- This week, we were introduced to **Graphs**.
+
+
 
 
