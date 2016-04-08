@@ -117,23 +117,23 @@
 
 # Week 12
 - This week, we were introduced to the concepts of **Graphs**, **Euler Circuits**, **Euler Paths**, **Hamilton Circuits**, **Hamilton Paths**.
-  * Graph Theory
+ Graph Theory
   * **Graphs** - structures that are interconnected by *vertices*, which are then interconnected by *edges*.
   * **Vertices** - represented as islands during the lecture. These are the points which interconnect each edge, thus forming the figure.
   * **Edges** - represented as bridges between the islands. These are the lines which make up the figure.
   * **Degree** - number of edges connected to a vertex.
  
-  * ##EULER CIRCUITS AND PATHS
+  ##EULER CIRCUITS AND PATHS
   * **Euler Circuit** - a circuit that passes through each edge without repetition and then goes back to its starting point. A circuit where all of its vertices have even degrees.
   * **Euler Path** - a path that passes through each edge without repetition, whereas if compared to an *Euler Circuit*, it is not necessary for it to go back. A path that must contain at least two vertices with odd degree.
    
   
-  * ##HAMILTON CIRCUITS AND PATHS
+   ##HAMILTON CIRCUITS AND PATHS
   * **Hamilton Circuit** - a circuit that passes through each and every vertex without repetition, and then goes back to its starting point. If there is a *Pendant*, it is not a *Hamilton circuit.*
   * **Hamilton Path** - a path that passes through each and every vertex without repetition. Unlike the *Hamilton Circuit*, it does not necessarily have to go back to its starting point.
   * **Pendant** - a vertex with only one degree.
   
-  * **Terms to Remember**
+ **Terms to Remember**
   * **Matrix of a Graph** - we were introduced to *adjacency of matrices*, which displays a matrix that shows the connection of each and every vertex/edge of the graph. If connected, the legend shows 1. If not connected, the legend shows 0.
   * **Isomorphism** - a term used to show equal graphs, even when they are at two different states. Their *adjacency matrix* is technically equal.
   * **Planar and Non-Planar** - properties that show the possibility that edges do not cross each other. If they do, it is *Non-Planar*, while if they don't, the graph is *Planar*.
