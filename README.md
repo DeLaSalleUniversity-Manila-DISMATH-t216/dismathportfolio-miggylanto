@@ -117,7 +117,7 @@
 
 # Week 12
 - This week, we were introduced to the concepts of **Graphs**, **Euler Circuits**, **Euler Paths**, **Hamilton Circuits**, **Hamilton Paths**.
-  * ##GRAPH THEORY
+  * Graph Theory
   * **Graphs** - structures that are interconnected by *vertices*, which are then interconnected by *edges*.
   * **Vertices** - represented as islands during the lecture. These are the points which interconnect each edge, thus forming the figure.
   * **Edges** - represented as bridges between the islands. These are the lines which make up the figure.
@@ -133,13 +133,20 @@
   * **Hamilton Path** - a path that passes through each and every vertex without repetition. Unlike the *Hamilton Circuit*, it does not necessarily have to go back to its starting point.
   * **Pendant** - a vertex with only one degree.
   
-  * ##TERMS TO REMEMBER
+  * **Terms to Remember**
   * **Matrix of a Graph** - we were introduced to *adjacency of matrices*, which displays a matrix that shows the connection of each and every vertex/edge of the graph. If connected, the legend shows 1. If not connected, the legend shows 0.
   * **Isomorphism** - a term used to show equal graphs, even when they are at two different states. Their *adjacency matrix* is technically equal.
   * **Planar and Non-Planar** - properties that show the possibility that edges do not cross each other. If they do, it is *Non-Planar*, while if they don't, the graph is *Planar*.
   
 # Week 13
-- 
+- This week, we were introduced to the final topics which would eventually conclude our **DISMATH** class. We were introduced to **Graph Coloring**, **Trees**, and the **Automata Theory**.
+  * **Graph Coloring** - the assignment of colors to a vertex, where it must satisfy that its adjacent vertices must not have the same color. The number of colors is called the *Chromatic Number*. We were also introduced to the *Four Color Theorem*, which states that a planar graph must have a chromatic number less than or equal to four.
+  * **Trees** - an undirected graph where its vertices are connected to each other like a hierarchy.
+  * **Rooted Tree** - root vertex is specified. Edges are directed away from vertices. *Ordered Rooted Tree* is a tree where its children are ordered.
+  * **M-ary Tree** - internal vertices is not higher than m amount of children.
+  
+- We were also introduced to a *Finite state machine*, as well as the concept of the vending machine program.\
+- This concluded the entire coverage of lectures for this semester in **DISCRETE MATHEMATICS**. I'm going to miss it!
   
   
 
