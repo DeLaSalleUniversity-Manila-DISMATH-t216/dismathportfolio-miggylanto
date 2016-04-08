@@ -117,7 +117,7 @@
 
 # Week 12
 - This week, we were introduced to the concepts of **Graphs**, **Euler Circuits**, **Euler Paths**, **Hamilton Circuits**, **Hamilton Paths**.
- Graph Theory
+ - Graph Theory
   * **Graphs** - structures that are interconnected by *vertices*, which are then interconnected by *edges*.
   * **Vertices** - represented as islands during the lecture. These are the points which interconnect each edge, thus forming the figure.
   * **Edges** - represented as bridges between the islands. These are the lines which make up the figure.
