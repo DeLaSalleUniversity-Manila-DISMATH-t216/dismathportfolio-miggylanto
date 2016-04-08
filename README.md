@@ -99,11 +99,13 @@
   * **Insertion Sort** - just like the bubble sort, it compares the elements and interchanges them throughout the list, except that it focuses on the 2nd element first and compares it with the first element. 3rd with the 2nd, 4th with the 3rd, etc.
   * **Greedy Change** - a method to find the least amount of "*coins*" for change. Mainly uses denomination.
 
+
 # Week 10
 - We were introduced to **Functions**, **Growth of Functions**, **Time Complexity**.
   * **Functions** - a relationship or expression involving one or more variables.
   * **Time Complexity** - quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input. Commonly expressed is with *Big-O Notation*.
   * **Big-O Notation** is the upperbound region of the function. Lower bound is represented by **Big-Omega**, while both regions are represented by the **Big-Theta**.
+- We solved the worst-time complexities for algorithms like *Bubble-Sort*, *Insertion-Sort*, etc. 
 - We were also introduced about the **Divisio** and the **Modulo** Operators
   * **Divisio** - an operator that gives the quotient of two given numbers.
   * **Modulo** - an operator that gives the remainder obtained when these two given numbers are divided.
@@ -111,7 +113,36 @@
   * **Caesar's Cipher** - it is a form of cryptography where the letter are shifted 3 times to the right. This method of cryptography was used back in the day during warfare.
 
 # Week 11
-- This week, we were introduced to **Graphs**.
+- Holy Week! The Lord is my Father, my Savior!
+
+# Week 12
+- This week, we were introduced to the concepts of **Graphs**, **Euler Circuits**, **Euler Paths**, **Hamilton Circuits**, **Hamilton Paths**.
+  * ##GRAPH THEORY
+  * **Graphs** - structures that are interconnected by *vertices*, which are then interconnected by *edges*.
+  * **Vertices** - represented as islands during the lecture. These are the points which interconnect each edge, thus forming the figure.
+  * **Edges** - represented as bridges between the islands. These are the lines which make up the figure.
+  * **Degree** - number of edges connected to a vertex.
+ 
+  * ##EULER CIRCUITS AND PATHS
+  * **Euler Circuit** - a circuit that passes through each edge without repetition and then goes back to its starting point. A circuit where all of its vertices have even degrees.
+  * **Euler Path** - a path that passes through each edge without repetition, whereas if compared to an *Euler Circuit*, it is not necessary for it to go back. A path that must contain at least two vertices with odd degree.
+   
+  
+  * ##HAMILTON CIRCUITS AND PATHS
+  * **Hamilton Circuit** - a circuit that passes through each and every vertex without repetition, and then goes back to its starting point. If there is a *Pendant*, it is not a *Hamilton circuit.*
+  * **Hamilton Path** - a path that passes through each and every vertex without repetition. Unlike the *Hamilton Circuit*, it does not necessarily have to go back to its starting point.
+  * **Pendant** - a vertex with only one degree.
+  
+  * ##TERMS TO REMEMBER
+  * **Matrix of a Graph** - we were introduced to *adjacency of matrices*, which displays a matrix that shows the connection of each and every vertex/edge of the graph. If connected, the legend shows 1. If not connected, the legend shows 0.
+  * **Isomorphism** - a term used to show equal graphs, even when they are at two different states. Their *adjacency matrix* is technically equal.
+  * **Planar and Non-Planar** - properties that show the possibility that edges do not cross each other. If they do, it is *Non-Planar*, while if they don't, the graph is *Planar*.
+  
+# Week 13
+- 
+  
+  
+
 
 
 
